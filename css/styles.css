@@ -76,7 +76,7 @@ ol {
 h1 {
   font-size: 18px;
   font-size: 1.125rem;
-  color: #666666;
+  color: #4bcaff;
   margin: 5px 0 0;
 }
 h2 {
@@ -482,7 +482,7 @@ hr {
   margin-bottom: 44px;
 }
 .header-main {
-  color: #ffffff;
+  color: #4bcaff;
   height: 44px;
   line-height: 44px;
   padding-right: 20px;
@@ -543,7 +543,7 @@ hr {
 }
 .user-menu header {
   padding: 10px;
-  background: #fa8f1c;
+  background: #4bcaff;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   box-shadow: none;
 }
