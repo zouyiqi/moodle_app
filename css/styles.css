@@ -487,7 +487,7 @@ hr {
   line-height: 44px;
   padding-right: 20px;
   overflow: hidden;
-  background: #fa8f1c;
+  background: #4bcaff;
   border-bottom: 0;
 }
 .header-main .nav-main {
@@ -537,7 +537,7 @@ hr {
 /* - User menu on the left panel
 -------------------------------------------------------------------------- */
 .user-menu {
-  background: #fa8f1c;
+  background: #4bcaff;
   padding-bottom: 40px;
   height: auto;
 }
@@ -1228,7 +1228,7 @@ hr {
   letter-spacing: .5px;
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
   padding: 10px;
-  background-color: #fa8f1c;
+  background-color: #4bcaff;
   -webkit-border-radius: 10px 10px 0 0;
   -moz-border-radius: 10px 10px 0 0;
   border-radius: 10px 10px 0 0;
